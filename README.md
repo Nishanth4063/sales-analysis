@@ -33,3 +33,17 @@ Kaggle sales dataset (1,000 rows, 14 columns, 2023 plus 3 records in Jan 2024). 
 - `Project_1.xlsx` (Excel analysis)
 - `sales_analysis.ipynb` and `sales_data.csv` (pandas notebook)
 - Screenshots: dashboard, drill-through page, star schema (Model view)
+
+## Screenshots
+
+**Sales Overview**
+
+![Sales Overview](screenshots/sales-overview.png)
+
+**Region Detail (drill-through)**
+
+![Region Detail](screenshots/region-detail.png)
+
+**Data model (star schema)**
+
+![Star schema](screenshots/star-schema.png)
