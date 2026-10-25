@@ -1,4 +1,4 @@
-# Sales Analysis Dashboard (Excel, SQL Server, Power BI)
+# Sales Analysis Dashboard (Excel, SQL Server, Power BI, pandas)
 
 Analysis of 1,000 sales records, built in four tools and cross-checked so every number matches.
 
@@ -11,7 +11,7 @@ Analysis of 1,000 sales records, built in four tools and cross-checked so every 
 ## Data
 Kaggle sales dataset (1,000 rows, 14 columns, 2023 plus 3 records in Jan 2024). Checked in Power Query: 0 duplicates, 0 empty values.
 
-## Key numbers (all three tools agree)
+## Key numbers (all four tools agree)
 - Total recorded sales: **5,019,265.23** (average sale about 5,019)
 - 1,000 sales, 100 unique products, about 25,000 units sold
 
